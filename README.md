@@ -1,4 +1,7 @@
-# cocktail-generator
+# The Cocktail Generator
+
+Original iteration of this application found at [zerhl/cocktail-generator](https://github.com/zehrl/cocktail-generator).
+
 ## Table of Contents
 - [cocktail-generator](#cocktail-generator)
   - [Table of Contents](#table-of-contents)
@@ -13,8 +16,8 @@
 
 ## Project Location
 
-* [Deployed](https://zehrl.github.io/cocktail-generator/)
-* [GitHub Repo](https://github.com/zehrl/cocktail-generator)
+* [Deployed](https://gavin867.github.io/Cocktail_Generator/)
+* [GitHub Repo](https://github.com/Gavin867/Cocktail_Generator)
 
 ## Motivation 
 The craft cocktail renaissance had gained a massive amount of steam in the decade leading up to March of 2020 before COVID-19 devastated the Seattle bar and restaurant scene. With many of Seattle’s most prominent drinkeries put out of business, many of their former patrons are now stuck at home with the desire to drink cocktails and, in many cases, a lack of experience making them. Flipping through cocktail recipes can be fun, but there are times when the sheer number of options leads to a ‘Netflix Paradox of Choice’-type situation –you know, the one where the user wastes all the time they have to watch something looking for that right something to watch.
